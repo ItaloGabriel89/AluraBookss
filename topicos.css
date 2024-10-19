@@ -1,0 +1,14 @@
+@media screen and (win-widht:1024px) {
+    .tópicos__titulo{
+        font-size:24px;
+    }
+    .tópicos__link{
+        font-size:24px;
+    }
+}
+
+@media  and (min-width: 1728px){
+    .tópicos{
+        padding:13em 20vw;
+    }
+}
